@@ -19,11 +19,12 @@ Hi, my name is Amina Aissa, I have a bachelor's degree in computer science with 
 
 <a href="https://www.linkedin.com/in/aissa-amina-609915119/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=LinkedIn&logoColor=white"></a>
 <a href="mailto:aissa.amina.2014@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
+
 </p>
 
 <h1>👨‍💻 Tools i use:</h1>
 <p align="center">
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
 <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit-learn-F7931E.svg?logo=scikit-learn&logoColor=white"></a>
 <a href="#"><img alt="pandas" src="https://img.shields.io/badge/pandas-150458.svg?logo=pandas&logoColor=white"></a>
