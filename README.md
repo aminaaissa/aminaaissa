@@ -29,7 +29,7 @@ Hi, my name is Amina Aissa, I have a bachelor's degree in computer science with 
 <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>
 <a href="#"><img alt="pandas" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"></a>
-<a href="#"><img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52.svg?logo=Qt&logoColor=white"></a>
+<a href="#"><img alt="Qt" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=PostgreSQL&logoColor=white"></a>
 <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=MongoDB&logoColor=white"></a>
