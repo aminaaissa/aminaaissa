@@ -27,8 +27,8 @@ Hi, my name is Amina Aissa, I have a bachelor's degree in computer science with 
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
 <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
 <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>
-<a href="#"><img alt="pandas" src="https://img.shields.io/badge/pandas-150458.svg?logo=pandas&logoColor=white"></a>
-<a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?logo=Selenium&logoColor=white"></a>
+<a href="#"><img alt="pandas" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+<a href="#"><img alt="Selenium" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"></a>
 <a href="#"><img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52.svg?logo=Qt&logoColor=white"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=PostgreSQL&logoColor=white"></a>
