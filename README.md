@@ -47,6 +47,7 @@ Hi, my name is Amina Aissa, I have a bachelor's degree in computer science with 
 
 <h1>🕓 Version Control</h1>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=Git&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 <h1>🎨 Design</h1>
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></a>
