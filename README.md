@@ -16,9 +16,9 @@ Hi, my name is Amina Aissa, I have a bachelor's degree in computer science with 
 
 <p>
 :mailbox: Reach me out! 
-<a href="https://www.facebook.com/cinouammari/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2.svg?logo=Facebook&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/ammari-yacine-858439156/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=LinkedIn&logoColor=white"></a>
-<a href="mailto:yacine.ammari@yahoo.fr"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
+
+<a href="https://www.linkedin.com/in/aissa-amina-609915119/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=LinkedIn&logoColor=white"></a>
+<a href="mailto:aissa.amina.2014@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
 </p>
 
 <h1>👨‍💻 Tools i use:</h1>
