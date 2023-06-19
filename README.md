@@ -4,9 +4,11 @@ Hi, my name is Amina Aissa, I have a bachelor's degree in computer science with 
 
 🤖 fun fact about me: I'm proud to say that I can succesfully center an element with css 😎.
 
-🌱 I'm currently learning React.
+🌱 I'm currently learning Vuejs.
 
-👨 Pronouns: he/him.
+🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐  Marketing Digital.
+
+👨 Pronouns:.
 
 👨🏻‍💻 Most of my projects are available on Github.
 
