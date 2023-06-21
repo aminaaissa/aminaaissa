@@ -63,10 +63,7 @@ Hi, my name is Amina Aissa, I have a bachelor's degree in computer science with 
 <h1>📕 Top Projects I've Worked on:</h1>
 
 <p align="center">
-<a href="https://github.com/yacineammari/PFE-alzheimer-disease-classification"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=yacineammari&repo=PFE-alzheimer-disease-classification&theme=react" alt="PFE-alzheimer-disease-classification"></a>
-<a href="https://github.com/yacineammari/BSD-Application-with-sharing"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=yacineammari&repo=BSD-Application-with-sharing&theme=react" alt="BSD-Application-with-sharing"></a>
-<a href="https://github.com/yacineammari/valorant-app"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=yacineammari&repo=valorant-app&theme=react" alt="valorant-app"></a>
-<a href="https://github.com/yacineammari/color-hailpixel-clone"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=yacineammari&repo=color-hailpixel-clone&theme=react" alt="color-hailpixel-clone"></a>
+
 </p>
 
 
