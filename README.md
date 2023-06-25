@@ -1,9 +1,12 @@
 ## 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
 
 Hi, my name is Amina Aissa, I have a bachelor's degree in computer science with a specialization in software engineering. I am versatile and adapt quickly.
+
 I am delighted to welcome you to my GitHub profile. I am passionate about web and app development as well as digital marketing. On this platform, I share my projects, my skills and my experiences in these exciting fields.
 
+
 As a web and application developer, I have acquired a solid expertise in the creation and design of state-of-the-art websites and applications. My goal is to develop innovative and user-friendly solutions that meet the specific needs of users. I have a good command of programming languages such as HTML, CSS, JavaScript, as well as popular frameworks such as Laravel and Angular VueJs.
+
 
 In parallel, I am also specialized in digital marketing. I am convinced that online visibility and effective promotion are essential to achieve business objectives. I am proficient in Search Engine Optimization (SEO), Advertising Campaign Management (SEM), Social Media Marketing and Data Analytics. I strive to implement impactful digital marketing strategies to help businesses reach their target audience and maximize their online presence.
 
