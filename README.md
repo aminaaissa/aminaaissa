@@ -56,8 +56,8 @@ Hi, my name is Amina Aissa, I have a bachelor's degree in computer science with 
 <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white"></a>
 <h1>📊 Github Stats:</h1>
 <p align="center">
-<a href="#"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=yacineammari&show_icons=true&theme=react" alt="PFE-alzheimer-disease-classification"></a>
-<a href="#"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacineammari&layout=compact&theme=react" alt="PFE-alzheimer-disease-classification"></a>
+<a href="#"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=aminaaissa&show_icons=true&theme=react" alt="PFE-alzheimer-disease-classification"></a>
+<a href="#"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminaaissa&layout=compact&theme=react" alt="PFE-alzheimer-disease-classification"></a>
 </p>
 
 <h1>📕 Top Projects I've Worked on:</h1>
