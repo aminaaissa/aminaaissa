@@ -57,7 +57,7 @@ Hi, my name is Amina Aissa, I have a bachelor's degree in computer science with 
 <h1>📊 Github Stats:</h1>
 <p align="center">
 <a href="#"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=aminaaissa&show_icons=true&theme=react" alt="PFE-alzheimer-disease-classification"></a>
-<a href="#"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminaaissa&layout=compact&theme=react" alt="PFE-alzheimer-disease-classification"></a>
+<a href="#"><img width="40%" src="t" alt="PFE-alzheimer-disease-classification"></a>
 </p>
 
 <h1>📕 Top Projects I've Worked on:</h1>
